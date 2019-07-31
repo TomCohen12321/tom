@@ -1,5 +1,5 @@
 ---
-- hosts: 192.168.85.10
+- hosts: test
   gather_facts: no
   vars:
   - local_a: "{{a}}"
